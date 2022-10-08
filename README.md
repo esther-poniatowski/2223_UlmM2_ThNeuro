@@ -10,7 +10,7 @@ eponiatowski@clipper.ens.psl.eu
 **TDs sheets and corrections**
 
 | Date     |      TD     |  Topics  |
-|----------|:-------------:|------:|
+|----------|:-------------:|------|
 | 22-09-22 | TD1 | Models of Neurons I - Leaky-Integrate-and-Fire model |
 | 22-09-29 | TD2 | Models of Neurons II - Generalized Integrate-and-Fire models (QIF, EIF, adaptative models)  |
 | 22-10-06 | TD3 | Models of Neurons III - Conductance-based models (minimal models, Hodgkin-Huxley model, Futz-Hugh Nagumo model)   |
