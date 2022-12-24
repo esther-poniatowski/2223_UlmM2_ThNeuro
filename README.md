@@ -19,6 +19,6 @@ eponiatowski@clipper.ens.psl.eu
 | 22-10-27 | TD6 | Rate Models |
 | 22-11-10 | TD7 | Learning I - Supervised Learning (Perceptron) |
 | 22-11-17 | TD8 | Learning II - Unsupervised Learning (Hebb's rule) |
-| 22-12-01 | TD9 | Learning III - Reinforcement Learning |
-| 22-12-08 | TD10 | Neuronal Coding |
+| 22-12-01 | TD9 (bonus) | Learning III - Reinforcement Learning |
+| 22-12-08 | TD10 (bonus) | Neuronal Coding |
 
