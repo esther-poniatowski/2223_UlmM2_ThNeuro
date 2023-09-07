@@ -1,7 +1,7 @@
 # Theoretical Neuroscience TDs
 
 *TD material for the M2 Theoretical Neuroscience course, Master in Life Science (IMaLiS), ENS, 2023-2024.*  
-[https://www.enseignement.biologie.ens.fr/spip.php?article232&lang=fr](https://cogmaster.ens.psl.eu/en/program/m2-program-13572)
+[Cogmaster website](https://cogmaster.ens.psl.eu/en/program/m2-program-13572)
 
 
 **TD assistant**  
