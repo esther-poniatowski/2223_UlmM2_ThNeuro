@@ -12,14 +12,14 @@ eponiatowski@clipper.ens.psl.eu
 
 | Date     |      TD     |  Topics  |
 |----------|:-------------:|------|
-| 22-09-21 | TD1 | Models of Neurons I - Leaky-Integrate-and-Fire model |
-| 22-09-28 | TD2 | Models of Neurons II - Generalized Integrate-and-Fire models (QIF, EIF, adaptative models)  |
-| 22-10-05 | TD3 | Models of Neurons III - Conductance-based models (minimal models, Hodgkin-Huxley model, Futz-Hugh Nagumo model)   |
-| 22-10-12 | TD4 | Synapses & Dendrites |
-| 22-10-19 | TD5 | Balanced Networks |
-| 22-10-26 | TD6 | Rate Models |
-| 22-11-16 | TD7 | Learning I - Supervised Learning (Perceptron) |
-| 22-11-23 | TD8 | Learning II - Unsupervised Learning (Hebb's rule) |
-| 22-11-30 | TD9 | Learning III - Reinforcement Learning |
-| 22-12-07 | TD10 | Neuronal Coding |
+| 23-09-21 | TD1 | Models of Neurons I - Leaky-Integrate-and-Fire model |
+| 23-09-28 | TD2 | Models of Neurons II - Generalized Integrate-and-Fire models (QIF, EIF, adaptative models)  |
+| 23-10-05 | TD3 | Models of Neurons III - Conductance-based models (minimal models, Hodgkin-Huxley model, Futz-Hugh Nagumo model)   |
+| 23-10-12 | TD4 | Synapses & Dendrites |
+| 23-10-19 | TD5 | Balanced Networks |
+| 23-10-26 | TD6 | Rate Models |
+| 23-11-16 | TD7 | Learning I - Supervised Learning (Perceptron) |
+| 23-11-23 | TD8 | Learning II - Unsupervised Learning (Hebb's rule) |
+| 23-12-07 | TD9 | Learning III - Reinforcement Learning |
+| 22-12-14 | TD10 | Neuronal Coding |
 
