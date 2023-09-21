@@ -1,14 +1,16 @@
 # Theoretical Neuroscience TDs
 
 *TD material for the M2 Theoretical Neuroscience course, Master in Life Science (IMaLiS), ENS, 2023-2024.*  
-[General public information](http://www.phys.ens.fr/~nadal/Cours/TheoreticalNeuroscience/)
 
+## Practical information 
+
+[General public information](http://www.phys.ens.fr/~nadal/Cours/TheoreticalNeuroscience/)
 
 **TD assistant**  
 Esther Poniatowski
 eponiatowski@clipper.ens.psl.eu
 
-**PROGRAMM**
+## PROGRAMM
 
 | Date     |      TD     |  Topics  |
 |----------|:-------------:|------|
@@ -23,7 +25,6 @@ eponiatowski@clipper.ens.psl.eu
 | 23-12-07 | TD9 | Learning III - Reinforcement Learning |
 | 22-12-14 | TD10 | Neuronal Coding |
 
-**SURVEY**
 ## Survey
 Please fill the following questionnaire after the first TD session.  
 [Link to the form](https://forms.gle/UdysLuyvGzhSnN2g8)
