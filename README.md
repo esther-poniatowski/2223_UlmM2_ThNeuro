@@ -24,4 +24,6 @@ eponiatowski@clipper.ens.psl.eu
 | 22-12-14 | TD10 | Neuronal Coding |
 
 **SURVEY**
+## Survey
+Please fill the following questionnaire after the first TD session.  
 [Link to the form](https://forms.gle/UdysLuyvGzhSnN2g8)
