@@ -4,10 +4,9 @@
 
 ## Practical information 
 
-[General public information](http://www.phys.ens.fr/~nadal/Cours/TheoreticalNeuroscience/)
+:information_source: [General public information](http://www.phys.ens.fr/~nadal/Cours/TheoreticalNeuroscience/)
 
-**TD assistant**  
-Esther Poniatowski
+**TD assistant** Esther Poniatowski  
 :e-mail: eponiatowski@clipper.ens.psl.eu
 
 ## PROGRAMM
