@@ -8,7 +8,7 @@
 
 **TD assistant**  
 Esther Poniatowski
-📧 eponiatowski@clipper.ens.psl.eu
+:e-mail: eponiatowski@clipper.ens.psl.eu
 
 ## PROGRAMM
 
