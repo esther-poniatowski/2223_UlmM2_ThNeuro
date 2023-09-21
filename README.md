@@ -8,7 +8,7 @@
 Esther Poniatowski
 eponiatowski@clipper.ens.psl.eu
 
-**Programm**
+**PROGRAMM**
 
 | Date     |      TD     |  Topics  |
 |----------|:-------------:|------|
@@ -23,3 +23,5 @@ eponiatowski@clipper.ens.psl.eu
 | 23-12-07 | TD9 | Learning III - Reinforcement Learning |
 | 22-12-14 | TD10 | Neuronal Coding |
 
+**SURVEY**
+[Link to the form](https://forms.gle/UdysLuyvGzhSnN2g8)
