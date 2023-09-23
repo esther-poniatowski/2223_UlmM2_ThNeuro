@@ -12,10 +12,10 @@
 ## News 
 
 > Dear all,
-> I have just uploaded the correction of TD 1.
+> I have just uploaded the correction of TD 1.  
 > Sorry for not having done it before. I wanted to detail some methods for those who needed a reminder in differential equations. I hope it will help you. In any case, do not hesitate to send me questions by mail.
-> Some graphical interpretations are still missing, I will try to add them as soon as possible.
-> Please, tell me if anything is unclear, or if you spot mistakes in the corrections.
+> Some graphical interpretations are still missing, I will try to add them as soon as possible.  
+> Please, tell me if anything is unclear, or if you spot mistakes in the corrections.  
 > About the content :
 > - You can focus on what we did in class and on the Leaky-Integrate-and-Fire model.
 > - Do not worry about the last part about oscillations.
