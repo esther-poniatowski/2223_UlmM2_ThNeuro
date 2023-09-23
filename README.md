@@ -9,6 +9,20 @@
 **TD assistant** Esther Poniatowski  
 :e-mail: eponiatowski@clipper.ens.psl.eu
 
+## News 
+
+> Dear all,
+> I have just uploaded the correction of TD 1.
+> Sorry for not having done it before. I wanted to detail some methods for those who needed a reminder in differential equations. I hope it will help you. In any case, do not hesitate to send me questions by mail.
+> Some graphical interpretations are still missing, I will try to add them as soon as possible.
+> Please, tell me if anything is unclear, or if you spot mistakes in the corrections.
+> About the content :
+> - You can focus on what we did in class and on the Leaky-Integrate-and-Fire model.
+> - Do not worry about the last part about oscillations.
+> - Do not worry about numerical implementations. This will not be part of the written exam. You might need programming tools for the personnal part of the exam (group works on modeling articles), but we will have time to discuss about that.
+> I stay at your disposal for any other question or remark.
+> I wish you a good week-end.
+
 ## Programm
 
 | Date     |      TD     |  Topics  |
