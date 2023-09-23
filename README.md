@@ -20,7 +20,8 @@
 > - You can focus on what we did in class and on the Leaky-Integrate-and-Fire model.
 > - Do not worry about the last part about oscillations.
 > - Do not worry about numerical implementations. This will not be part of the written exam. You might need programming tools for the personnal part of the exam (group works on modeling articles), but we will have time to discuss about that.
-> I stay at your disposal for any other question or remark.
+> 
+> I stay at your disposal for any other question or remark.  
 > I wish you a good week-end.
 
 ## Programm
