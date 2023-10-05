@@ -18,6 +18,10 @@ To get access to the moodle of the course - if this is not yet the case -:
 Non Cogmaster students have to register with the Cogmaster.  
 See here [http://www.phys.ens.fr/~nadal/Cours/TheoreticalNeuroscience/](https://cogmaster.ens.psl.eu/en/application/external-students-13501)
 
+:warning: **SHEET FOR GROUPS COMPOSITION (FINAL ARTICLE PRESENTATION)**   
+[http://www.phys.ens.fr/~nadal/Cours/TheoreticalNeuroscience/](https://docs.google.com/spreadsheets/d/1CX9o1aqD8ap8mC7MRpgAWRIjUYAe3W1ikEC6eNUryZs/edit?usp=sharing)
+
+
 
 ## News 
 
