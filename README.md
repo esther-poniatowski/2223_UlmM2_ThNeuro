@@ -38,8 +38,8 @@ See here [http://www.phys.ens.fr/~nadal/Cours/TheoreticalNeuroscience/](https://
 |----------|:-------------:|------|------|
 | 23-09-21 | TD1 | Models of Neurons I - Leaky-Integrate-and-Fire model | 2. Models of Point Neurons, 3.1 & 3.2 Leaky-Integrate-and-Fire model. |
 | 23-09-28 | TD2 | Models of Neurons II - Generalized Integrate-and-Fire models (QIF, EIF, adaptative models)  | 1.2. Quadratic Integrate-and-Fire model. 2.2. Adaptive Exponential Integrate-and-Fire model.
-| 23-10-05 | TD3 | Synapses & Dendrites | |
-| 23-10-12 | TD4 | Models of Neurons III - Conductance-based models (minimal models, Hodgkin-Huxley model, Futz-Hugh Nagumo model)   | |
+| 23-10-05 | TD3 | Synapses & Dendrites | 4.1 Receptors kinetics & Post-synaptic current, Comparing alpha functions and Markov kinetics |
+| 23-10-12 | TD4 | Models of Neurons III - Conductance-based models (minimal models, Hodgkin-Huxley model, Futz-Hugh Nagumo model) | 3.1 FitzHugh-Nagumo mode, Local analysis |
 | 23-10-19 | TD5 | Balanced Networks | |
 | 23-10-26 | TD6 | Learning II - Unsupervised Learning (Hebb's rule) | |
 | 23-11-16 | TD7 | Rate Models | |
