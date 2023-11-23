@@ -43,7 +43,7 @@ See here [http://www.phys.ens.fr/~nadal/Cours/TheoreticalNeuroscience/](https://
 | 23-10-19 | TD5 | Balanced Networks | 1. Poissonian spike trains, 3. Stochastic integration of synaptic inputs (q.14)|
 | 23-10-26 | TD6 | Rate Models | 1. Input current & Uniform state, 2. Description through order parameters, 3. Bumpy perturbation (q.5) |
 | 23-11-16 | TD7 | Learning I - Unsupervised Learning (Hebb's rule) | 1. Modeling a binocular neuron, 2.1 Standard Hebbian learning |
-| 23-11-23 | TD8 | Learning II - Supervised Learning (Perceptron) | |
+| 23-11-23 | TD8 | Learning II - Supervised Learning (Perceptron) | 1. & 2. |
 | 23-12-07 | TD9 | Learning III - Reinforcement Learning | |
 | 22-12-14 | TD10 | Neuronal Coding | |
 | 22-12-21 |  | | |
